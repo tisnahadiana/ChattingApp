@@ -43,6 +43,7 @@ class MainActivity : AppCompatActivity() {
         binding!!.tabs.setupWithViewPager(binding!!.viewPager)
 
         println("This is Contained in my second commit")
+        today is good day
 
     }
 }
