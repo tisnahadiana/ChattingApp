@@ -41,5 +41,8 @@ class MainActivity : AppCompatActivity() {
         binding!!.viewPager.adapter = adapter
 
         binding!!.tabs.setupWithViewPager(binding!!.viewPager)
+
+        println("This is Contained in my second commit")
+
     }
 }
