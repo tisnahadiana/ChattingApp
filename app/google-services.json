@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "554709828188",
+    "project_id": "chattingapp-e73eb",
+    "storage_bucket": "chattingapp-e73eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554709828188:android:c5fc5ec0cb98d6389c5c99",
+        "android_client_info": {
+          "package_name": "com.droomptech.chattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554709828188-vk7g2ggivi51danb79f43tn007kuugta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.droomptech.chattingapp",
+            "certificate_hash": "bb9ad71e1c7226fa757616c386549a3c3b43019f"
+          }
+        },
+        {
+          "client_id": "554709828188-tk54c1ptgtsik0stm18evv6si55q11t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABtliEwILPDsDZAP9cCXZxHgZhmiV4jUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554709828188-tk54c1ptgtsik0stm18evv6si55q11t4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
